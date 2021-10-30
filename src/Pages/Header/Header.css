@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&display=swap');
+body{
+    font-family: 'Crimson Pro', serif;
+}
+.trust-logo{
+    width: 50px;
+}
+.bg-header{
+    background-image: url('../../images/bg-banner.webp');
+    background-size: cover;
+}
